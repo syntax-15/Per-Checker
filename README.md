@@ -16,7 +16,7 @@ This tool measures the performance of your system components, including CPU, GPU
 
 1. Clone the repository:
    ```bash
-   git clone github.com:syntax-15/Per-Checker.git
+   git clone github.com:syntax-15/Per-Checker.git](https://github.com/syntax-15/Per-Checker.git
    cd Per-Checker
    pip install -r requirements.txt
    py main.py
