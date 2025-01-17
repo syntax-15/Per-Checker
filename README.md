@@ -16,5 +16,5 @@ This tool measures the performance of your system components, including CPU, GPU
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/syntax-15/check_performance.git
+   git clone 
    cd check_performance
